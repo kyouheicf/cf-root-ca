@@ -5,6 +5,7 @@ Define the text, secret or build variables for your project
 ```
 ACCOUNT_ID='YOUR_ACCOUNT_ID`
 APITOKEN='YOUR_APITOKEN`
+ROOT_CA_CERT_ID='YOUR_ROOT_CA_CERT_ID'
 ```
 
 # Deploy
